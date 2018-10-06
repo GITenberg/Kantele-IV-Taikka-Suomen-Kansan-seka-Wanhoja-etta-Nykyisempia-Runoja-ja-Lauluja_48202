@@ -23,6 +23,8 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Kantele IV
 
   Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja'
